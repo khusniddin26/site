@@ -1,0 +1,7 @@
+import math
+x = 543 / 32
+y = 45 + x
+print(y)
+
+
+print("Hello world how are you how is your health and mood now")
